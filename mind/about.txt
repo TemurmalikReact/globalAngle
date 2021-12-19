@@ -1,0 +1,32 @@
+UX/UI Design Platforms
+Web DesignResponsive Design
+
+UX/UI Design Deliverables
+PrototypeMockupStyle GuideUser FlowsWebsiteWebsite RedesignLanding PageIcon DesignSketchingResearch DocumentationHigh Fidelity DesignComponents DesignWireframing
+
+UX/UI Design Skills
+User ResearchUsability TestingHeuristic EvaluationInformation ArchitectureCompetitive Analysis
+
+UX/UI Design Software
+Figma
+
+Business Size Experience
+Business with 1000+ Employees
+
+Project description
+*Product and Project Statement*
+With so many health-related apps in the marketplace, there was an opportunity for health care professionals to vet and validate all these tools. Mind is a program that gathers and reviews wellness apps.
+
+Mind is a digital library that allows users to explore and discover expert-validated wellness apps.
+
+*How it works*
+Mind is an initiative by the Harvard Medical School of Psychiatry that meets the need of being able to identify and filter wellness apps. Driven by reviews from trained participants, Mind brings added transparency to health-related apps.
+
+*Overview*
+The design team worked on a redesign of a previous platform that had limitations in the search function's user experience. By exploring the user needs and conducting market research, the architecture of the platform was improved and tested in order to create an intuitive experience.
+
+*Client Testimonial*
+"Geekbears delivered an output that exceeded the client's expectations. The new design helped in increasing the web traffic and reaching more individuals and organizations. The team's workflow was efficient and professional." - Sarah Lagan, Clinical Research Assistant, Research Lab
+
+less
+https://apps.digitalpsych.org/

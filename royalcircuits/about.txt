@@ -1,0 +1,28 @@
+UX/UI Design Platforms
+Web Design
+
+UX/UI Design Deliverables
+PrototypeMockupStyle GuideUser FlowsWebsiteLanding PageIcon DesignSketchingResearch DocumentationHigh Fidelity DesignComponents DesignWireframing
+
+UX/UI Design Skills
+User ResearchUsability TestingHeuristic EvaluationInformation ArchitectureCompetitive Analysis
+
+UX/UI Design Software
+Figma
+
+Business Size Experience
+Business with 100-999 Employees
+
+
+Project description
+Royal Circuits offers PCB manufacturing with fast lead times. Royal Circuits is one of the lead Circuit Board producers in Silicon Valley.
+
+The features comprise a customer portal and an online ordering tool that is connected with the internal system through APIs.
+
+Achievement:
+- Featured in Wired
+
+WIRED gave maker Joe Grand three weeks to figure out how to make a compass that points to pizza. He came to us for help manufacturing the boards fast and we were happy to help.
+
+less
+https://www.royalcircuits.com/

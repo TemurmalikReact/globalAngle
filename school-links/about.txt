@@ -1,0 +1,38 @@
+UX/UI Design Platforms
+Mobile App DesignWeb DesignResponsive Design
+
+UX/UI Design Deliverables
+PrototypeMockupStyle GuideUser FlowsSketchingWireframingMobile AppHigh Fidelity DesignComponents Design
+
+UX/UI Design Skills
+User ResearchHeuristic EvaluationInformation ArchitectureJourney MappingCompetitive AnalysisUser Experience Strategy
+
+UX/UI Design Software
+Adobe IllustratorFigmaSketchInVision
+
+Business Size Experience
+Business with 10-99 Employees
+
+Skills
+mysql-programming php aws-ecscss
+
+Project description
+*Product and Project Statement*
+SchooLinks is a college and career readiness platform that connects international students with thousands of potential schools. Intuitive and quick to set up, it's a modern solution for higher education.
+
+From general browsing to preference-based filters, the application leverages technology to make access to opportunities ubiquitous.
+
+*How it works*
+SchooLinks utilizes advanced machine learning algorithms to personalize and simplify the otherwise intimidating experience of choosing a school. With a set of powerful tools, students can explore, correspond with, and ultimately, apply for schools with the push of a button.
+
+*Overview*
+Our app design company gathered an initial list of requirements and key features based on research and interviews conducted with schools, students and educational professionals to ensure that the users would have access to the tools they needed from the start. From there, we designed the user interface and user experience, and then developed the application from scratch. New features and tools were added as new users continued to join the platform.
+
+*Achievements*
+- Named Top 50 Startups to Watch
+- Won Capital Factory, an Incubator Program
+- $10 Million Raised
+- Winner of 50 on Fire in 2017
+
+https://hello.schoolinks.com/
+

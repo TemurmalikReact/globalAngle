@@ -1,0 +1,19 @@
+Project description
+*Product and Project Statement*
+Doors provides participants with the digital literacy to navigate smartphones and benefit from their utility. This educational platform is aimed at users with learning limitations due to mental illness.
+
+Using technology and an intuitive interface, the content of the physical Doors program was scaled up and made available to anyone interested.
+
+*How it works*
+Doors offers a multi-session curriculum that equips participants with digital skills that are relevant to their daily life. With content developed by the Harvard Medical School of Psychiatry, users with learning limitations that stem from mental illness can gain digital literacy from any location.
+
+*Overview*
+Harvard Medical School of Psychiatry saw the opportunity to scale a physical program into a digital platform that could be made available to anyone who would benefit from it. Our design team explored the user needs based on existing data and defined the platform's characteristics, always keeping the target user in mind. The platform has allowed the program to reach people from all around the country.
+
+*Client Testimonial*
+"Our team partnered with Geekbears to design the UI/UX for a digital skills training website to make digital literacy education more accessible during the COVID-19 pandemic. The designs were well done and the team did a great job in ensuring our vision became a reality." -
+Erica Camacho - Digital Education Hub Director, Division of Digital Psychiatry, Harvard Medical School Teaching Hospital
+
+less
+https://skills.digitalpsych.org/
+
